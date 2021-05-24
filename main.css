@@ -1,0 +1,59 @@
+/*body {
+	background:#5d7dc0;
+	background-color: #000;
+	background-image:url(img/back.png);
+	background-size:cover; 
+	background-size: 1920px 1165px;
+	background-repeat: no-repeat;
+	background-position: top; 
+	background-attachment:fixed;
+	color: #ffffff;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height:1.4em;
+	overflow:auto;
+	font-size: 25px;
+	margin:0px;
+	padding:0px;
+}
+
+body:before {
+  content: "";
+  position: relative;
+  top: 0px;
+  left: 50%;
+  bottom: 0px;
+  transform: translateX(-50%);
+  width: 4px;
+}
+*/
+
+body {
+	font-family: 'Calibri';
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h1 {
+	color: #0000a4;
+}
+
+li {
+	
+}
+
+.paragrafo1{
+	width: 50%;
+	margin: 20px;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
